@@ -92,5 +92,7 @@ Geometric transforms and Image registration
 
 Deep Learning in Image Processing
 
+
 This class was taken during Winter 2021 Quarter
+
 Instructor: Min-Tung Sun
