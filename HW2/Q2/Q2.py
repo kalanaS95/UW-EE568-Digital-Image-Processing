@@ -69,7 +69,6 @@ class Q2:
         plt.ylabel("Probability")
         plt.show()
 
-
 def main():
     Q2_ = Q2()
 
